@@ -32,47 +32,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global AI developer tools and learning platforms market is estimated at **$7.4B–$7.9B in 2025** and projected to surpass **$10B by 2026**, growing at a CAGR of ~24–27%. The sector is **moderately fragmented and hyper-competitive**, characterized by a multi-layered ecosystem spanning foundational cloud providers (e.g., Google), specialized foundation model providers (e.g., Cohere), vertical vector search infrastructure (e.g., Pinecone), and specialized learning hubs (e.g., DeepLearning.AI), rather than a winner-take-all monopoly.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[DeepLearning.AI](https://www.deeplearning.ai/)**  
-
-  **The most trusted AI education platform** with 150+ courses co-created with OpenAI, Anthropic, Google, AWS, Microsoft, Meta, NVIDIA, Hugging Face, and LangChain . **10M+ learners worldwide** with curriculum from the source. Courses pair video with hands-on coding labs in browser-based environments . Team plan at **$25/user/month** (10-100 seats) .
-
-
-
-- **[Cohere LLM University](https://cohere.com/developers)**  
-
-  Cohere's learning hub for enterprise AI mastery. Features detailed resources, step-by-step guides, and expert-led courses for developers and technical professionals . No-code Playground for API testing .
-
-
-
-- **[Google Cloud Skills Boost](https://www.cloudskillsboost.google/)**  
-
-  **The most comprehensive cloud learning catalog** with **700+ learning activities** including short labs and multi-module courses . **Hands-on labs provide temporary credentials to real cloud resources** for practical learning . Skill badges awarded upon completion .
-
-
-
-- **[Kaggle Learn](https://www.kaggle.com/learn)**  
-
-  **The best starting point for data science fundamentals** with **17 free courses** covering Python, Pandas, Machine Learning, Deep Learning, SQL, and Feature Engineering . All courses use Kaggle notebooks with completion certificates . **Recommended as the first stop for beginners** .
-
-
-
-- **[Pinecone Learn](https://www.pinecone.io/learn/)**  
-
-  Pinecone's educational hub for vector databases and RAG patterns. Features sample applications and Jupyter Notebooks for hands-on learning .
+| Platform | Description | Company Valuation / Revenue | Pricing (Starting Paid Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Google Cloud Skills Boost](https://www.cloudskillsboost.google/)** | Comprehensive cloud training platform with 700+ learning activities, hands-on labs with temporary live GCP credentials, and skill badges. | Alphabet: **$2.2T+ Market Cap** (~$350B Annual Revenue) | **$29/month** (or $299/year via Innovators Plus) | **35 free lab credits/month** on the no-cost Starter tier; select introductory courses & videos permanently free. |
+| **[Kaggle Learn](https://www.kaggle.com/learn)** | Machine learning & data science learning ecosystem offering 17+ interactive courses with browser-based notebook runtimes. | Alphabet Subsidiary (Google acquisition; backed by Alphabet's **$2.2T+ Market Cap**) | **$0/month** (Core learning platform is 100% free; optional enterprise compute upgrades via GCP billing) | **30 hours/week** free GPU compute (NVIDIA T4/P100), **20 hours/week** TPU compute, 20GB disk storage, and max 9–12h per notebook session. |
+| **[Cohere LLM University](https://cohere.com/developers)** | Enterprise LLM training hub featuring guides, hands-on tutorials, API playgrounds, and model orchestration recipes. | **$7.0B Valuation** (~$240M ARR) | Pay-as-you-go production API starting at **$0.15/1M input tokens** (Command R7B) | **1,000 API calls/month** permanently free trial key for non-production evaluation across endpoints (capped at 20 req/min for Chat, 10 req/min for Rerank). |
+| **[Pinecone Learn](https://www.pinecone.io/learn/)** | Educational platform for vector search, RAG pipelines, and vector database architectures with interactive notebooks. | **$750M Valuation** (~$14M–$26M Annual Revenue) | **$20/month** (Builder Plan) | **2 GB storage** (approx. 100,000 vectors with 1536-dim embeddings), **2M Write Units/month**, and **1M Read Units/month** on the permanent Starter free tier (AWS us-east-1). |
+| **[DeepLearning.AI](https://www.deeplearning.ai/)** | AI education platform co-created with top AI industry leaders, featuring 150+ courses and short courses. | **~$52M–$78M Annual Revenue** (~$40M+ cumulative Coursera direct share; bootstrapped/AI Fund) | **$30/month** (or $25/month billed annually at $300/year for Pro Membership) | **Permanent free video auditing** across all course lectures and short courses; coding workspaces, graded assignments, and verifiable certificates require paid tier. |
 
 
 
